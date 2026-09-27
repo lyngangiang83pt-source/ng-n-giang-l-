@@ -1,0 +1,6 @@
+{
+  "name": "Gọi Học Sinh Ngẫu Nhiên",
+  "description": "Ứng dụng quay số gọi học sinh ngẫu nhiên phong cách game show hiện đại, hỗ trợ tải ảnh hàng loạt, tự động nhận diện tên và hiệu ứng âm thanh Web Audio sống động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
